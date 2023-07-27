@@ -1,3 +1,4 @@
+{
 [
   {
     "EczaneAdi": "Burgazada Eczanesi",
@@ -36,3 +37,4 @@
     "longitude": 29.069194
   }
 ]
+}
