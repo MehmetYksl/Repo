@@ -1,5 +1,5 @@
 {
-[
+
   {
     "EczaneAdi": "Burgazada Eczanesi",
     "Adresi": "Burgazadası Mahallesi Çınarlık Sokak 3 Burgazada / Adalar / İstanbul",
@@ -36,5 +36,5 @@
     "latitude": 40.879987,
     "longitude": 29.069194
   }
-]
+
 }
